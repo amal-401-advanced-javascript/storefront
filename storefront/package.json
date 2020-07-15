@@ -2,7 +2,7 @@
   "name": "storefront",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nervous-brattain-81191b.netlify.app",
+  "homepage": "https://pedantic-montalcini-9ffba2.netlify.app/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
