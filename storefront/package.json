@@ -2,7 +2,7 @@
   "name": "storefront",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/amal-401-advanced-javascript/storefront/",
+  "homepage": "https://AmalMAlmomani.github.io/storefront/",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
