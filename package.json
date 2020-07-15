@@ -2,7 +2,7 @@
   "name": "storefront",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cranky-hugle-ddd7ad.netlify.app",
+  "homepage": "https://cranky-hugle-ddd7ad.netlify.app/",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
