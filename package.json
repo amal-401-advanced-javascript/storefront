@@ -2,7 +2,8 @@
   "name": "storefront",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pedantic-montalcini-9ffba2.netlify.app/",
+  "homepage": "https://amal-401-advanced-javascript.github.io/storefront/",
+  "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -42,7 +43,6 @@
       "last 1 safari version"
     ]
   },
-  "main": "src/index.js",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "devDependencies": {},
   "keywords": [],
